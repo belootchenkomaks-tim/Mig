@@ -1,0 +1,21 @@
+# Конфигурация с паролями
+config.toml
+billing_auth.txt
+
+# Сборка PyInstaller
+dist/
+build/
+*.spec
+
+# Логи выполнения
+logs/
+*.log
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Папки тестовых запусков
+test_*/
+result_*/
